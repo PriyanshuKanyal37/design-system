@@ -1,4 +1,4 @@
-echo "# Design System
+# Design System
 
 A scalable, reusable **Design System** built with **React**, **TypeScript**, **TailwindCSS**, and **Storybook**.
 
